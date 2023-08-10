@@ -2,7 +2,7 @@
 
 Expense Tracer is a powerful website designed to empower you in managing your finances effectively. This user-friendly platform allows you to effortlessly track both your sources of income and expenditures. By seamlessly integrating these features, Expense Tracer provides you with a comprehensive overview of your financial inflows and outflows. This holistic perspective enables you to make informed decisions about your financial activities, ensuring that you maintain a healthy balance between your earnings and spending.
 
-Tech Stacks:
+## Tech Stacks:
 1) React Js
 2) HTML
 3) CSS
